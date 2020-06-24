@@ -1,0 +1,6 @@
+rootProject.name='BaseApplication'
+include ':app'
+include ':api'
+include ':domain'
+include ':data'
+
